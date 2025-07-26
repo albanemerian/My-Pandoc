@@ -1,0 +1,55 @@
+-- Parsed XML to custom format:
+
+
+
+Fornes Leo
+2024-01-01
+
+
+
+
+This document is a simple example of the XML syntax.
+Every syntax element is displayed in this document.
+
+
+
+
+This is a basic paragraph with text.
+This is a paragraph with
+,
+and
+text.
+bold
+italic
+code
+
+
+
+
+
+
+
+
+This is a code block.
+
+
+
+
+list item 1
+list item 2
+list item 3
+This is a paragraph with a
+.
+link
+This is a paragraph with an image
+.
+Text to replace image
+
+
+
+
+
+
+Every syntax element can be use separately or combined.
+Think about the different possible combinations.
+All combined syntax elements aren't displayed in this document.

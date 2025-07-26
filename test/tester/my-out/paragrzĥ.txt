@@ -1,0 +1,25 @@
+-- Parsed XML to custom format:
+
+
+
+Fornes Leo
+2024-01-01
+
+
+
+
+
+This document is a simple example of the XML syntax.
+Every syntax element is displayed in this document.
+
+
+
+
+This is a basic paragraph with text.
+This is a paragraph with
+,
+and
+text.
+bold
+italic
+code

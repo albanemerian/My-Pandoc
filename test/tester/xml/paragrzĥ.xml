@@ -1,0 +1,14 @@
+<document>
+    <header title="Syntaxe XML">
+        <author>Fornes Leo</author>
+        <date>2024-01-01</date>
+    </header>
+    <body>
+        <paragraph>This document is a simple example of the XML syntax.</paragraph>
+        <paragraph>Every syntax element is displayed in this document.</paragraph>
+        <section title="header 1">
+            <paragraph>This is a basic paragraph with text.</paragraph>
+            <paragraph>This is a paragraph with <bold>bold</bold>, <italic>italic</italic> and <code>code</code> text.</paragraph>
+        </section>
+    </body>
+</document>

@@ -1,0 +1,41 @@
+name: mypandoc
+version: 0.1.0.0
+github: "githubuser/mypandoc"
+license: BSD3
+author: "Author name"
+maintainer: "email@example.com"
+synopsis: "mypandoc project"
+description: "mypandoc project description"
+category: Development
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
+
+executables:
+  mypandoc:
+    main: Main.hs
+    source-dirs:
+      - app
+      - src
+    exposed-modules:
+      - Parser
+      - Document
+      - Functor
+      - Format
+      - Parsing
+      - XML
+      - JSON
+      - Markdown
+
+tests:
+  mypandoc-test:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+    - base
+    - hspec
+    - mypandoc
+    - silently
