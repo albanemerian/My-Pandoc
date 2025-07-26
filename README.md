@@ -90,4 +90,7 @@ GIT CLI important command :
     git commit -m "Nouveau message de commit (sans le fichier)"
     ```
 
+## Note 
+Overall : 87.9% 
 
+Grade A Médaille
